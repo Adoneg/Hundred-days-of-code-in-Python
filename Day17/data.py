@@ -1,0 +1,53 @@
+# question_data = [
+#     {"text": "A slug's blood is green.", "answer": "True"},
+#     {"text": "The loudest animal is the African Elephant.", "answer": "False"},
+#     {"text": "Approximately one quarter of human bones are in the feet.", "answer": "True"},
+#     {"text": "The total surface area of a human lungs is the size of a football pitch.", "answer": "True"},
+#     {"text": "In West Virginia, USA, if you accidentally hit an animal with your car,"
+#              " you are free to take it home to eat.", "answer": "True"},
+#     {"text": "In London, UK, if you happen to die in the House of Parliament, you are entitled to a state funeral.",
+#      "answer": "False"},
+#     {"text": "It is illegal to pee in the Ocean in Portugal.", "answer": "True"},
+#     {"text": "You can lead a cow down stairs but not up stairs.", "answer": "False"},
+#     {"text": "Google was originally called 'Backrub'.", "answer": "True"},
+#     {"text": "Buzz Aldrin's mother's maiden name was 'Moon'.", "answer": "True"},
+#     {"text": "No piece of square dry paper can be folded in half more than 7 times.", "answer": "False"},
+#     {"text": "A few ounces of chocolate can to kill a small dog.", "answer": "True"}
+# ]
+
+question_data = [
+         {"category": "Science%20%26%20Nature",
+          "type": "boolean",
+          "difficulty": "easy",
+          "question": "Igneous%20rocks%20are%20formed%20by%20excessive%20heat%20and%20pressure.",
+          "correct_answer": "False",
+          "incorrect_answers": ["True"]
+          },
+         {"category": "Science%20%26%20Nature", "type": "boolean", "difficulty": "easy",
+          "question": "Salt%20is%20100%25%20composed%20of%20Sodium.",
+          "correct_answer": "False", "incorrect_answers": ["True"]},
+         {"category": "Science%20%26%20Nature", "type": "boolean", "difficulty": "easy",
+          "question": "An%20atom%20contains%20a%20nucleus.", "correct_answer": "True",
+          "incorrect_answers": ["False"]},
+         {"category": "Science%20%26%20Nature", "type": "boolean", "difficulty": "easy",
+          "question": "An%20exothermic%20reaction%20is%20a%20chemical%20reaction%20that%20releases%20energy%20by%20radiating%20electricity.",
+          "correct_answer": "False", "incorrect_answers": ["True"]},
+         {"category": "Science%20%26%20Nature", "type": "boolean", "difficulty": "easy",
+          "question": "An%20Astronomical%20Unit%20is%20the%20distance%20between%20Earth%20and%20the%20Moon.",
+          "correct_answer": "False", "incorrect_answers": ["True"]},
+         {"category": "Science%20%26%20Nature", "type": "boolean", "difficulty": "easy",
+          "question": "An%20average%20human%20can%20go%20two%20weeks%20without%20water.",
+          "correct_answer": "False", "incorrect_answers": ["True"]},
+         {"category": "Science%20%26%20Nature", "type": "boolean", "difficulty": "easy",
+          "question": "Psychology%20is%20the%20science%20of%20behavior%20and%20mind.",
+          "correct_answer": "True", "incorrect_answers": ["False"]},
+         {"category": "Science%20%26%20Nature", "type": "boolean", "difficulty": "easy",
+          "question": "Water%20always%20boils%20at%20100%C2%B0C%2C%20212%C2%B0F%2C%20373.15K%2C%20no%20matter%20where%20you%20are.",
+          "correct_answer": "False", "incorrect_answers": ["True"]},
+         {"category": "Science%20%26%20Nature", "type": "boolean", "difficulty": "easy",
+          "question": "Not%20including%20false%20teeth%3B%20A%20human%20has%20two%20sets%20of%20teeth%20in%20their%20lifetime.",
+          "correct_answer": "True", "incorrect_answers": ["False"]},
+         {"category": "Science%20%26%20Nature", "type": "boolean", "difficulty": "easy",
+          "question": "A%20plant%20that%20has%20a%20life%20cycle%20for%20more%20than%20a%20year%20is%20known%20as%20an%20annual.",
+          "correct_answer": "False", "incorrect_answers": ["True"]}
+]
