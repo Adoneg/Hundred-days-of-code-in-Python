@@ -1,0 +1,11 @@
+{
+     "pythonanywhere": {
+          "email": "victoradoneg2@gmail.com",
+          "password": "Mypythonanywhere@#14"
+     },
+     "twilio": {
+          "Use": "twilio failsafe code",
+          "email": "victoradoneg2@gmail.com",
+          "password": "VX8JX-JigPBjo9R0PqYdNij00JdG-LtAT4mTAANZ"
+     }
+}
